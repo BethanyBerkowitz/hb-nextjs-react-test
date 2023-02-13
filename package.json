@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@honeybadger-io/js": "4.9.0",
+    "@honeybadger-io/react": "4.9.0",
     "@next/font": "13.1.6",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
